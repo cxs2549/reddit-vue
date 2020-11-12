@@ -1,0 +1,36 @@
+:root {
+    --gutter: 8px;
+    --app-background-color: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+    --app-color: #d7dadc;
+    --border-color: #cccccc;
+    --input-color: #f6f7f8;
+    --input-border: #edeff1;
+    --button-color: #0079d3;
+    --button-text: #d7dadc;
+    --pill-color: #cecfd0;
+    --pill-text: #0079d3;
+    --text-color: rgb(35 35 35);
+    --text-dim: #878a8c;
+    --votebar: #f7f9fa;
+    --icon-color: #878a8c;
+    --navbtn-color: #0079d3;
+    --navbtn-text: #d7dadc;
+}
+
+[theme="dark"] {
+    --app-background-color: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+    --app-color: #1a1a1b;
+    --border-color: #343536;
+    --input-color: #272729;
+    --input-border: #343536;
+    --button-color: #d7dadc;
+    --button-text: #151516;
+    --pill-color: #272729;
+    --pill-text: #d7dadc;
+    --text-color: #d7dadc;
+    --text-dim: #818384;
+    --votebar: #151516;
+    --icon-color: #818384;
+    --navbtn-color: #d7dadc;
+    --navbtn-text: #030303;
+}
